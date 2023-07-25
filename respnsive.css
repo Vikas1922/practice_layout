@@ -538,6 +538,23 @@
 }
 
 @media (min-width: 1201px) and (max-width: 1400px){
+     body{
+        /* background-image: url('./images/shillong.jpg'); */
+        /* background-repeat: no-repeat; */
+        /* background-size: cover; */
+        background-color: #12121259;
+        
+    }
+     #info-container{
+    /* position: static; */
+    
+    display: none;
+    
+    
+
+    /* height: auto; */
+    /* width: auto; */
+ }
    #places{
       height: 80rem;
       flex-direction: column;
