@@ -1,0 +1,558 @@
+@media (max-width: 576px){
+    body{
+        /* background-image: url('./images/shillong.jpg'); */
+        /* background-repeat: no-repeat; */
+        /* background-size: cover; */
+        background-color: #12121259;
+        
+    }
+ #container{
+    flex-direction: column;
+    height: auto;
+  
+ }  
+ #left-corner img{
+    width: 50px;
+    height: 40px;
+ }
+
+ #mid-corner .heading-style{
+    font-size: 18px;
+ }
+
+ #right-corner{
+
+    height: auto;
+    width: auto;
+ }
+ #left-corner .headings{
+    font-size: 15px;
+ }
+
+ #right-corner #nav{
+    flex-direction: column;
+    width: auto;
+    height: auto;
+ }
+ #right-corner #nav li{
+    font-size: 14px;
+ }
+ 
+ #info-container{
+    /* position: static; */
+    
+    display: none;
+    
+    
+
+    /* height: auto; */
+    /* width: auto; */
+ }
+
+ #section_1 #thought-sec{
+  
+    width: auto;
+    height: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+ }
+ .styles-own{
+    font-size: 30px;
+ }
+ .para-style{
+    font-size: 10px;
+    text-align: center;
+ } 
+
+ #places{
+   flex-direction: column;
+    width: auto;
+    height: 150rem;
+    justify-content: space-evenly;
+ }
+ .display-adjust{
+   flex-direction: column;
+   height: 320px;
+   justify-content: space-between;
+ }
+ .img-galary{
+    width: 250px;
+    height: 250px;
+ }
+ .h4-style{
+    font-size: 17px;
+ }
+ #section_2 #intersted-user{
+    width: auto;
+    height: auto;
+    margin-bottom: 34px;
+ }
+ 
+#section_2 #intersted-user h2{
+    font-size: 20px;
+    margin-top: 20px;
+    height: auto;
+    width: auto;
+}
+#user-info {
+    flex-direction: column;
+    width: auto;
+    height: auto;
+}
+#user-info-form{
+    width: auto;
+    height: auto;
+    /* justify-content: space-between; */
+}
+#photo-sec{
+   display: flex;
+   justify-content: flex-end;
+   width: auto;
+   height: auto;
+   margin-right: 30px;
+}
+.input_div{
+    flex-direction: column;
+    /* width: auto; */
+    height: auto;
+    margin-bottom: 10px;
+} 
+.label_style{
+   margin-bottom: 10px;
+}
+.utility_style {
+    width: 50%;
+    height: auto;
+    padding: 5px 5px;
+}
+.btn-style{
+    margin-bottom: 10px;
+}
+
+}
+
+@media (min-width: 577px) and (max-width: 768px){
+   body{
+      /* background-image: url('./images/shillong.jpg'); */
+      /* background-repeat: no-repeat; */
+      /* background-size: cover; */
+      background-color: #12121259;
+      
+  }
+#container{
+  flex-direction: column;
+  height: auto;
+
+}  
+#left-corner img{
+   width: 85px;
+   height: 60px;
+}
+
+#mid-corner .heading-style{
+   font-size: 25px;
+}
+
+#right-corner{
+
+   height: auto;
+   width: auto;
+}
+#left-corner .headings{
+   font-size: 22px;
+}
+
+#right-corner #nav{
+   flex-direction: column;
+   width: auto;
+   height: auto;
+}
+#right-corner #nav li{
+   font-size: 20px;
+}
+#info-container{
+   /* position: static; */
+   
+   display: none;
+   
+   
+
+   /* height: auto; */
+   /* width: auto; */
+}
+
+#section_1 #thought-sec{
+  
+   width: auto;
+   height: auto;
+   margin-top: 20px;
+   margin-bottom: 20px;
+}
+.styles-own{
+   font-size: 40px;
+}
+.para-style{
+   font-size: 17px;
+} 
+#places{
+   flex-direction: column;
+   width: auto;
+   height: 200rem;
+   padding-top: 30px;
+   padding-bottom: 30px;
+}
+.display-adjust{
+   flex-direction: column;
+   margin-bottom: 20px;
+   
+   justify-content: space-between;
+   width: auto;
+   height: 27rem;
+
+}
+.img-galary{
+   width: 350px;
+   height: 350px;
+}
+.h4-style{
+   font-size: 22px;
+}
+#section_2 #intersted-user{
+   width: auto;
+   height: auto;
+   margin-bottom: 34px;
+}
+
+#section_2 #intersted-user h2{
+   font-size: 30px;
+   margin-top: 20px;
+   height: auto;
+   width: auto;
+}
+#user-info {
+   flex-direction: column;
+   width: auto;
+   height: 70rem;
+   justify-content: space-evenly;
+}
+#user-info-form{
+   width: auto;
+   height: auto;
+   /* justify-content: space-between; */
+}
+
+.label_style{
+   font-size: 22px;
+   margin-bottom: 5px;
+}
+.input_div{
+   flex-direction: column;
+   /* width: auto; */
+   height: auto;
+   margin-bottom: 10px;
+} 
+.utility_style {
+   width: 50%;
+   height: auto;
+   padding: 15px 10px;
+}
+#photo-sec{
+   margin-left: 20px;
+   align-self: center;
+}
+.btn-style{
+   margin-bottom: 10px;
+}
+}
+
+@media (min-width: 769px) and (max-width: 992px){
+   body{
+      /* background-image: url('./images/shillong.jpg'); */
+      /* background-repeat: no-repeat; */
+      /* background-size: cover; */
+      background-color: #12121259;
+      
+  }
+#container{
+  flex-direction: column;
+  height: auto;
+
+}  
+#left-corner img{
+   width: 150px;
+   height: 120px;
+}
+
+#mid-corner .heading-style{
+   font-size: 40px;
+}
+
+#right-corner{
+
+   height: auto;
+   width: auto;
+}
+#left-corner .headings{
+   font-size: 32px;
+}
+
+#right-corner #nav{
+   flex-direction: column;
+   width: auto;
+   height: auto;
+}
+#right-corner #nav li{
+   font-size: 30px;
+}
+#info-container{
+   /* position: static; */
+   
+   display: none;
+   
+   
+
+   /* height: auto; */
+   /* width: auto; */
+}
+
+#section_1 #thought-sec{
+  
+   width: auto;
+   height: auto;
+   margin-top: 20px;
+   margin-bottom: 20px;
+}
+.styles-own{
+   font-size: 50px;
+}
+.para-style{
+   font-size: 23px;
+} 
+#places{
+   flex-direction: column;
+   width: auto;
+   height: 250rem;
+   padding-top: 40px;
+   padding-bottom: 40px;
+}
+.display-adjust{
+   flex-direction: column;
+   margin-bottom: 30px;
+   justify-content: space-between;
+   width: auto;
+   height: 34rem;
+}
+.img-galary{
+   width: 450px;
+   height: 450px;
+}
+.h4-style{
+   font-size: 30px;
+}
+#section_2 #intersted-user{
+   width: auto;
+   height: auto;
+   margin-bottom: 34px;
+}
+
+#section_2 #intersted-user h2{
+   font-size: 40px;
+   margin-top: 20px;
+   height: auto;
+   width: auto;
+}
+#user-info {
+   flex-direction: column;
+   width: auto;
+   height: 100rem;
+    justify-content: space-evenly;
+}
+#user-info-form{
+   width: auto;
+   height: auto;
+   /* justify-content: space-between; */
+}
+
+.label_style{
+   font-size: 30px;
+   margin-bottom: 15px;
+}
+.input_div{
+   flex-direction: column;
+   /* width: auto; */
+   height: auto;
+   margin-bottom: 25px;
+} 
+.utility_style {
+   width: 50%;
+   height: auto;
+   padding: 25px 15px;
+   font-size: 20px;
+}
+
+#photo-sec{
+   margin-left: 20px;
+   align-self: center;
+}
+
+
+.btn-style{
+   margin-bottom: 10px;
+}
+}
+
+@media (min-width: 993px) and (max-width: 1200px){
+   body{
+      /* background-image: url('./images/shillong.jpg'); */
+      /* background-repeat: no-repeat; */
+      /* background-size: cover; */
+      background-color: #12121259;
+      
+  }
+#container{
+  flex-direction: column;
+  height: auto;
+
+}  
+#left-corner img{
+   width: 150px;
+   height: 120px;
+}
+
+#mid-corner .heading-style{
+   font-size: 40px;
+}
+
+#right-corner{
+
+   height: auto;
+   width: auto;
+}
+#left-corner .headings{
+   font-size: 32px;
+}
+
+#right-corner #nav{
+   flex-direction: column;
+   width: auto;
+   height: auto;
+}
+#right-corner #nav li{
+   font-size: 30px;
+}
+#info-container{
+   /* position: static; */
+   
+   display: none;
+   
+   
+
+   /* height: auto; */
+   /* width: auto; */
+}
+
+#section_1 #thought-sec{
+  
+   width: auto;
+   height: auto;
+   margin-top: 20px;
+   margin-bottom: 20px;
+}
+.styles-own{
+   font-size: 50px;
+}
+.para-style{
+   font-size: 23px;
+} 
+#places{
+   flex-direction: column;
+   width: auto;
+   height: 250rem;
+   padding-top: 40px;
+   padding-bottom: 40px;
+}
+.display-adjust{
+   flex-direction: column;
+   margin-bottom: 30px;
+   justify-content: space-between;
+   width: auto;
+   height: 34rem;
+}
+.img-galary{
+   width: 450px;
+   height: 450px;
+}
+.h4-style{
+   font-size: 30px;
+}
+#section_2 #intersted-user{
+   width: auto;
+   height: auto;
+   margin-bottom: 34px;
+}
+
+#section_2 #intersted-user h2{
+   font-size: 40px;
+   margin-top: 20px;
+   height: auto;
+   width: auto;
+}
+#user-info {
+   flex-direction: column;
+   width: auto;
+   height: 100rem;
+    justify-content: space-evenly;
+}
+#user-info-form{
+   width: auto;
+   height: auto;
+   /* justify-content: space-between; */
+}
+
+.label_style{
+   font-size: 30px;
+   margin-bottom: 15px;
+}
+.input_div{
+   flex-direction: column;
+   /* width: auto; */
+   height: auto;
+   margin-bottom: 25px;
+} 
+.utility_style {
+   width: 50%;
+   height: auto;
+   padding: 25px 15px;
+   font-size: 20px;
+}
+
+#photo-sec{
+   margin-left: 20px;
+   align-self: center;
+}
+
+
+.btn-style{
+   margin-bottom: 10px;
+} 
+}
+
+@media (min-width: 1201px) and (max-width: 1400px){
+   #places{
+      height: 80rem;
+      flex-direction: column;
+   }
+   .display-adjust{
+      height: 20rem;
+      width: auto;
+   }
+   .img-galary:hover{
+      box-shadow: 3px 3px 4px 0px #94cbef;
+      /* z-index: 1; */
+   }
+
+   #section_2{
+      width: auto;
+      height: 35rem;
+   }
+}
